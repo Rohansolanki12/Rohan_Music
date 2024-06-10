@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Nothing Bot's 」──
+    ──「 Rohan music Bot 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/cf9b17c2d78e1f58ff297.jpg">
+  <img src=".https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg">
 </p>
 
 <h3 align="center">
